@@ -1,0 +1,33 @@
+.container {
+    background: #161414 0% 0% no-repeat padding-box;
+    height: 95px;
+    opacity: 1;
+    position: absolute;
+    top: -2px;
+    left: 0px;
+}
+
+.container .logo {
+    color: #ebd700;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+
+.container .home {
+    color: #9e9e9e;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.container .entregas {
+    color: #9e9e9e;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.container .estabelecimento {
+    color: #9e9e9e;
+    font-size: 18px;
+    text-decoration: none;
+}
